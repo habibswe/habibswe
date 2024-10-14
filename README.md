@@ -54,7 +54,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
     </td>
    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" /> -->
     <br>
     <img src="https://img.shields.io/github/languages/top/habibswe/your-repo" alt="GitHub top language" />
     <img src="https://img.shields.io/github/stars/habibswe/your-repo?style=social" alt="GitHub stars" />
