@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Md. Habibur Rahman</h1>
 <!-- <h3 align="center">A Passionate Software Quality Engineer from Bangladesh</h3> -->
-<marquee behavior="scroll" direction="left">
-  <h3 align="center">A Passionate Software Quality Engineer from Bangladesh</h3>
-</marquee>
+<img src="https://your-image-link.gif" alt="A Passionate Software Quality Engineer from Bangladesh">
+
 
 <!-- <img align="center" alt="Coding" width="900" height="400" src="https://github.com/habibswe/logo/blob/main/testops.png"> -->
 <img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
