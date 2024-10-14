@@ -50,9 +50,12 @@
 
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
-    </td>
+    </td> -->
+   <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=dark" alt="habibswe" />
+</td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Contributions" />
     </td>
