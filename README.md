@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on as a **SQA Engineer**
 
-- 📄 Know about my experiences [https://habibswe.github.io/habib.pf/](https://habibswe.github.io/habib.pf/)
+- 📄  To Know about my experiences [Portfolio](https://habibswe.github.io/habib.pf/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
