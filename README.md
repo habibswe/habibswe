@@ -56,9 +56,9 @@
    <td align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" /> -->
     <br>
-    <img src="https://img.shields.io/github/languages/top/habibswe/your-repo" alt="GitHub top language" />
-    <img src="https://img.shields.io/github/stars/habibswe/your-repo?style=social" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/license/habibswe/your-repo" alt="GitHub license" />
+![GitHub top language](https://img.shields.io/github/languages/top/habibswe/my-awesome-project)
+![GitHub stars](https://img.shields.io/github/stars/habibswe/my-awesome-project?style=social)
+![GitHub license](https://img.shields.io/github/license/habibswe/my-awesome-project)
 </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Contributions" />
