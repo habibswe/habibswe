@@ -7,19 +7,7 @@
 
 - 🌱 I’m currently working on as a **SQA Engineer**
 
-- 📄  To Know about my experiences | [Portfolio](https://habibswe.github.io/habib.pf/) | | [CV](https://habibswe.github.io/habib.pf/HRCV.pdf) |
-  <br><br>  
-To Know about my experiences | 
-<a href="https://habibswe.github.io/habib.pf/">
-  <img src="https://raw.githubusercontent.com/habibswe/logo/main/portfolio.gif" alt="Portfolio" width="40" style="border-radius: 50%;"/>
-</a> 
-| 
-<a href="https://habibswe.github.io/habib.pf/HRCV.pdf">
-  <img src="https://raw.githubusercontent.com/habibswe/logo/main/curriculum-vitae.gif" alt="CV" width="40" style="border-radius: 50%;"/>
-</a>
-
-
-
+- 📄  To Know about my experiences | <h3 [Portfolio](https://habibswe.github.io/habib.pf/) | | [CV](https://habibswe.github.io/habib.pf/HRCV.pdf) | </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
