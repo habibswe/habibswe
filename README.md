@@ -52,10 +52,14 @@
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
-     | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" width="300"/> |
-|-------------------------------------------------------------------------------------------------------------------|
-| ![GitHub top language](https://img.shields.io/github/languages/top/habibswe/your-repo) ![GitHub stars](https://img.shields.io/github/stars/habibswe/your-repo?style=social) ![GitHub license](https://img.shields.io/github/license/habibswe/your-repo) |
     </td>
+   <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
+    <br>
+    <img src="https://img.shields.io/github/languages/top/habibswe/your-repo" alt="GitHub top language" />
+    <img src="https://img.shields.io/github/stars/habibswe/your-repo?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/license/habibswe/your-repo" alt="GitHub license" />
+</td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Contributions" />
     </td>
