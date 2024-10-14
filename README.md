@@ -46,13 +46,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="40">
 </div>
 <br><br>    
-<!-- For  -->
+<!-- For table -->
 
 <table>
   <tr>
-<!--     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact" alt="habibswe" />
-    </td> -->
 <td>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="habibswe" width="360" />
 </td>
@@ -64,5 +61,20 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="habibswe" width="360" />
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Contributions" />
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=radical" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
 
 
