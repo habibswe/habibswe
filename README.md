@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on as a **SQA Engineer**
 
-- 📄 ## To Know about my experiences | 
+- 📄 To Know about my experiences | 
 **[Portfolio](https://habibswe.github.io/habib.pf/)** | 
 **[CV](https://habibswe.github.io/habib.pf/HRCV.pdf)**
 
