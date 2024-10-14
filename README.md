@@ -9,8 +9,8 @@
 
 - 📄  To Know about my experiences | [Portfolio](https://habibswe.github.io/habib.pf/) | | [CV](https://habibswe.github.io/habib.pf/HRCV.pdf) |
 - To Know about my experiences 
-(https://github.com/habibswe/logo/blob/main/portfolio.gif)](https://habibswe.github.io/habib.pf/) 
-(https://github.com/habibswe/logo/blob/main/curriculum-vitae.gif)](https://habibswe.github.io/habib.pf/HRCV.pdf)
+(https://github.com/habibswe/logo/blob/main/portfolio.gif)(https://habibswe.github.io/habib.pf/) 
+(https://github.com/habibswe/logo/blob/main/curriculum-vitae.gif)(https://habibswe.github.io/habib.pf/HRCV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
