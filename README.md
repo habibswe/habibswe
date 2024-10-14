@@ -8,9 +8,9 @@
 - 🌱 I’m currently working on as a **SQA Engineer**
 
 - 📄 To Know about my experiences | 
-**[Portfolio](https://habibswe.github.io/habib.pf/)** | 
-**[CV](https://habibswe.github.io/habib.pf/HRCV.pdf)**
-To Know about my experiences | **[Portfolio](https://habibswe.github.io/habib.pf/)** | **[CV](https://habibswe.github.io/habib.pf/HRCV.pdf)**
+**[Portfolio](https://habibswe.github.io/habib.pf/)** || 
+**[CV](https://habibswe.github.io/habib.pf/HRCV.pdf)** | 
+
 
 
 <h3 align="left">Connect with me:</h3>
