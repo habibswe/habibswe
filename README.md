@@ -47,6 +47,7 @@
 </div>
 <br><br>    
 <!-- For table -->
+<table>
   <tr>
     <td style="width: 33.33%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=radical" alt="habibswe" width="360" />
