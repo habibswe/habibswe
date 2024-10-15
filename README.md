@@ -6,12 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibswe&label=Profile%20views&color=0e75b6&style=flat" alt="habibswe" /> </p>
 
 - 🌱 I’m currently learning **TestOps**
+  
+<!--- -- portfolio & CV --- -->
 
 - 📄 To Know about my experiences | 
 **[Portfolio](https://habibswe.github.io/habib.pf/)** || 
 **[CV](https://habibswe.github.io/habib.pf/HRCV.pdf)** | 
 
-
+<!--- -- Soicial mMedia Logos --- -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,12 +22,10 @@
 <a href="https://fb.com/habibswe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="habibswe" height="50" width="50" /></a>
 <a href="https://instagram.com/habibswe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="habibswe" height="50" width="50" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
- 
+
+<!--- -- Moving Logos --- -->
+
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
@@ -50,20 +50,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="40">
 </div>
 <br><br>    
+
 <!-- For table -->
-<!-- <table>
-  <tr>
-    <td style="width: 33.33%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=radical" alt="habibswe" width="360" />
-    </td>
-    <td style="width: 33.33%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Contributions" />
-    </td>
-    <td style="width: 33.33%; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=radical" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table> -->
 
 <table>
   <tr>
