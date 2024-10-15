@@ -51,7 +51,7 @@
 </div>
 <br><br>    
 <!-- For table -->
-<table>
+<!-- <table>
   <tr>
     <td style="width: 33.33%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=radical" alt="habibswe" width="360" />
@@ -63,7 +63,31 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=radical" alt="GitHub Streak Stats" />
     </td>
   </tr>
+</table> -->
+
+<table>
+  <tr>
+    <td style="width: 33.33%; text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=default" alt="habibswe" width="360" />
+      </picture>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="Total Contributions" />
+      </picture>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=default" alt="GitHub Streak Stats" />
+      </picture>
+    </td>
+  </tr>
 </table>
+
 
 
 
