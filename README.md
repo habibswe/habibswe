@@ -51,6 +51,11 @@
 </div>
 <br><br>    
 
+<!-- For trofy -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fmbrand&label=Profile%20views&color=0e75b6&style=flat" alt="fmbrand" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmbrand" alt="fmbrand" /></a> </p>
+
 <!-- For table -->
 
 <table>
