@@ -78,35 +78,4 @@
 
 
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td style="width: 33.33%; text-align: center; vertical-align: top; padding: 10px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibswe&show_icons=true&locale=en&layout=compact&theme=default" 
-             alt="habibswe" width="100%" />
-      </picture>
-    </td>
-    <td style="width: 33.33%; text-align: center; vertical-align: top; padding: 10px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api?username=habibswe&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
-             alt="Total Contributions" width="100%" />
-      </picture>
-    </td>
-    <td style="width: 33.33%; text-align: center; vertical-align: top; padding: 10px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=radical">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibswe&theme=default" 
-             alt="GitHub Streak Stats" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-
-
 
