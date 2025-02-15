@@ -10,8 +10,8 @@
 <!--- -- portfolio & CV --- -->
 
 - 📄 To Know about my experiences | 
-**[Portfolio](https://habibswe.github.io/habib.pf/)** || 
-**[CV](https://github.com/habibswe/CV/blob/main/Habib_SQA_Engineer_1.9Year%2B.pdf)** | 
+**[Portfolio](https://habibswe.github.io/portfolio/)** || 
+**[CV](https://github.com/habibswe/CV/blob/main/Habib_SQA_Engineer_2Years%2B.pdf)** | 
 
 <!--- -- Soicial mMedia Logos --- -->
 
