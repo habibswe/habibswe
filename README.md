@@ -11,7 +11,7 @@
 
 - 📄 To Know about my experiences | 
 **[Portfolio](https://habibswe.github.io/portfolio/)** || 
-**[CV](https://github.com/habibswe/CV/blob/main/Habib_SQA_Engineer_2Years%2B.pdf)** | 
+**[CV](https://github.com/habibswe/portfolio/blob/main/assets/Resume/Habib_SQA_Engineer_Resume_2Years%2B.pdf)** | 
 
 <!--- -- Soicial mMedia Logos --- -->
 
