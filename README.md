@@ -10,7 +10,7 @@
 <!--- -- portfolio & CV --- -->
 
 - 📄 To Know about my experiences | 
-**[Portfolio](https://habibswe.github.io/portfolio/)** || 
+**[Portfolio](https://habibswe.vercel.app/)** || 
 **[CV](https://github.com/habibswe/portfolio/blob/main/assets/Resume/Habib_SQA_Engineer_Resume_2Years%2B.pdf)** | 
 
 <!--- -- Soicial mMedia Logos --- -->
